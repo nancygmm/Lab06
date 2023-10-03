@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_lista_c">ListaC</string>
+    <string name="title_activity_lista">Lista</string>
+    <string name="title_activity_city_list">CityList</string>
+</resources>
